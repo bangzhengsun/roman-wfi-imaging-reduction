@@ -1,7 +1,5 @@
 Disclaimer: this pipeline is based on a JWST NIRCam imaging reduction pipeline developed by Bangzheng Sun (see bangzhengsun/sb_jwnrc_imaging_reduction_v3), 
-and the following generative AI tools were used in assistance to migrating the aforementioned pipeline to Roman WFI imaging: 
-  - ChatGPT/OpenAI GPT-6 Astra
-  - Anthropic/Claude Fable 5.1
+and the generative AI tool Claude (Fable 5.1) was used in assistance to migrating and testing the aforementioned pipeline to Roman WFI imaging, and to write the documentations for this repository. 
 
 All codes/results were examined by human for their validity. 
 
